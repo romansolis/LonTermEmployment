@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRSLTUStat-RomanSolis", "SSRSLTUStat-RomanSolis\SSRSLTUStat-RomanSolis.rptproj", "{51715145-5D6C-453D-943A-15EC7C46B08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51715145-5D6C-453D-943A-15EC7C46B08C}.Debug|Default.ActiveCfg = Debug
+		{51715145-5D6C-453D-943A-15EC7C46B08C}.Debug|Default.Build.0 = Debug
+		{51715145-5D6C-453D-943A-15EC7C46B08C}.Debug|Default.Deploy.0 = Debug
+		{51715145-5D6C-453D-943A-15EC7C46B08C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{51715145-5D6C-453D-943A-15EC7C46B08C}.DebugLocal|Default.Build.0 = DebugLocal
+		{51715145-5D6C-453D-943A-15EC7C46B08C}.Release|Default.ActiveCfg = Release
+		{51715145-5D6C-453D-943A-15EC7C46B08C}.Release|Default.Build.0 = Release
+		{51715145-5D6C-453D-943A-15EC7C46B08C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0468289C-E9F9-4DBF-8883-D800659D771A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSISLTU-RomanSolis", "SSISLTU-RomanSolis\SSISLTU-RomanSolis.dtproj", "{0633EAE6-15E4-4DC1-9E66-D93CC3B45BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0633EAE6-15E4-4DC1-9E66-D93CC3B45BDA}.Development|Default.ActiveCfg = Development
+		{0633EAE6-15E4-4DC1-9E66-D93CC3B45BDA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B378A265-39EF-4AF9-85D5-1DD0AFC4495F}
+	EndGlobalSection
+EndGlobal

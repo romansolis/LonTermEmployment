@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Project1", "..\..\HomeWork-UKBank\SSRS-UKBankRomanSolis.rptproj", "{6F55834A-5F53-460C-9E20-B395D453A085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F55834A-5F53-460C-9E20-B395D453A085}.Debug|Default.ActiveCfg = Debug
+		{6F55834A-5F53-460C-9E20-B395D453A085}.Debug|Default.Build.0 = Debug
+		{6F55834A-5F53-460C-9E20-B395D453A085}.Debug|Default.Deploy.0 = Debug
+		{6F55834A-5F53-460C-9E20-B395D453A085}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{6F55834A-5F53-460C-9E20-B395D453A085}.DebugLocal|Default.Build.0 = DebugLocal
+		{6F55834A-5F53-460C-9E20-B395D453A085}.Release|Default.ActiveCfg = Release
+		{6F55834A-5F53-460C-9E20-B395D453A085}.Release|Default.Build.0 = Release
+		{6F55834A-5F53-460C-9E20-B395D453A085}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F934DD-BE3B-4FE2-BD2D-09B70B93F9DB}
+	EndGlobalSection
+EndGlobal
